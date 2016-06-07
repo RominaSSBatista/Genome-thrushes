@@ -30,7 +30,9 @@ First dataset was downloaded from SciLifeLab XXX of August 2016.
 :information_source: For more info about Computer cluster [Albiorix](http://albiorix.bioenv.gu.se/).
 
 :+1: Romina Batista generated .md5 files on Albiorix, 31/05/2016.
+
 :cloud: Data stored on /nobackup/data4/DATA on Albiorix.
+
 :soon: Analyses are run in /nobackup/data4/romina/genome/NGS on computer cluster Albiorix, at the Department of Biological and Environmental Sciences, University of Gothenburg.
 
 
