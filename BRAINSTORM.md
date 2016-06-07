@@ -1,6 +1,8 @@
 ### Planed Analyses
 ---
 
+... working in progress ... :soon:
+
 Modified from [Avian Phylogenomics Project](http://avian.genomics.cn/en/index.html)
 
 ### 1st
@@ -20,6 +22,7 @@ Modified from [Avian Phylogenomics Project](http://avian.genomics.cn/en/index.ht
 
 1. Whole_genome_alignment 
 	1a. Pairwise alignments 
+
 	1b. Multiple alignments
 
 ### 4th
