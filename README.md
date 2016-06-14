@@ -24,6 +24,12 @@
 
 *	Romina Batista and Urban Olsson extracted DNA on the [Bioinformatics and Genetics Departament](http://www.nrm.se/english/researchandcollections/bioinformaticsandgenetics.9000580_en.html) at [Museum of Natural History - NRM](http://www.nrm.se/), Stockholm, Sweden.
 
+*	Romina Batista built this repository.
+
+*	Romina Batista is analysing the data, and leading manuscript preparation. 
+
+*	All collaborators are involved in discussions, and interpreting results.
+
 
 ... working in progress ... :soon:
 
