@@ -21,12 +21,28 @@
 
 *	The Project was conceived and designed by [Romina Batista](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4232850J7), [Alexandre Antonelli](http://www.antonelli-lab.net/) and [Urban Olsson](http://bioenv.gu.se/personal/Olsson_Urban) 
 
+
+*	Romina Batista and Urban Olsson extracted DNA on the [Bioinformatics and Genetics Departament](http://www.nrm.se/english/researchandcollections/bioinformaticsandgenetics.9000580_en.html) at [Museum of Natural History](http://www.nrm.se/), Stockholm, Sweden.
+
+
 ... working in progress ... :soon:
+
+### Acknowledgements
+--- 
+
+* We would like to thank Louisiana State University Museum of Natural Science, Louisiana State, USA ([LSU](http://www.museum.lsu.edu/MNS/birdcoll.html)) for provide tissue for this research. 
+
+*	We thank [Martin Irestedt](http://www.nrm.se/english/researchandcollections/bioinformaticsandgenetics/staffandcontact/martinirestedt.9003467.html) for his support in the [DNA Laboratory at NRM](https://sites.google.com/site/mslnrm/).
+
+*	We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository.
+
+* The authors would like to acknowledge support from [Science for Life Laboratory](https://www.scilifelab.se/), the National Genomics Infrastructure, [NGI](https://www.scilifelab.se/platforms/ngi/), and [Uppmax](https://www.scilifelab.se/facilities/uppnex/) for providing assistance in massive parallel sequencing and computational infrastructure.
+
 
 ### Data
 ---
 
-First dataset was downloaded from SciLifeLab April 2016.
+First dataset was downloaded from [Uppmax](https://www.scilifelab.se/facilities/uppnex/) April 2016.
 
 ### Notes :pencil2:
 ---
@@ -38,6 +54,3 @@ First dataset was downloaded from SciLifeLab April 2016.
 
 :soon: Analyses are run in /nobackup/data4/romina/genome/NGS on computer cluster Albiorix, at the Department of Biological and Environmental Sciences, University of Gothenburg.
 
-
-
-# Genome-thrushes
