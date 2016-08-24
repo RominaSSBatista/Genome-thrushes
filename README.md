@@ -56,7 +56,7 @@ First dataset was downloaded from [Uppmax](https://www.scilifelab.se/facilities/
 
 :+1: Romina Batista generated .md5 files on Albiorix, 31/05/2016.
 
-:cloud: Data stored on node0 /state/partition4/romina/genomes on Albiorix.
+:cloud: Data stored on node0 `/state/partition4/romina/genomes` on Albiorix.
 
-:soon: Analyses are run in /state/partition4/romina/genomes on computer cluster Albiorix, at the Department of Biological and Environmental Sciences, University of Gothenburg.
+:soon: Analyses are run in `/state/partition4/romina/genomes` on computer cluster Albiorix, at the Department of Biological and Environmental Sciences, University of Gothenburg.
 
