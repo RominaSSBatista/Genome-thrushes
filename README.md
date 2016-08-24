@@ -44,7 +44,6 @@
 
 * The authors would like to acknowledge support from [Science for Life Laboratory](https://www.scilifelab.se/), the National Genomics Infrastructure, [NGI](https://www.scilifelab.se/platforms/ngi/), and [Uppmax](https://www.scilifelab.se/facilities/uppnex/) for providing assistance in massive parallel sequencing and computational infrastructure.
 
-
 ### Data
 ---
 
