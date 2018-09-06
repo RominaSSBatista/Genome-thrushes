@@ -26,10 +26,6 @@
 
 *	Romina Batista built this repository.
 
-*	Romina Batista is analysing the data, and leading manuscript preparation. 
-
-*	All collaborators are involved in discussions, and interpreting results.
-
 
 ... working in progress ... :soon:
 
