@@ -3,7 +3,7 @@ _________
 
 :cloud: data stored at [Hebbe](https://www.c3se.chalmers.se/about/Hebbe/) 
 
-PATH: /cephyr/NOBACKUP/groups/snic2019-33-17/Romina/Tmerula_Bionano
+PATH: ```/cephyr/NOBACKUP/groups/snic2019-33-17/Romina/Tmerula_Bionano ```
 
 hebbe2.c3se.chalmers.se
 ___________
