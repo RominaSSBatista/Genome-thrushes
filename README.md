@@ -1,7 +1,7 @@
 ### Authors
 ---
 
-##### Romina Batista<sup>1</sup><sup>,</sup><sup>2</sup>, Alexandre Antonelli<sup>2</sup>, Camila Ribas<sup>1</sup>, Urban Olsson<sup>2</sup>
+##### Romina Batista<sup>1</sup><sup></sup>, Urban Olsson<sup>2</sup>
 ---
 
 <sup>1</sup>INPA: Instituto Nacional de Pesquisas da Amazônia ([INPA](http://portal.inpa.gov.br/)), PPG-GCBEV - Programa de Pós Graduação em Genética, Conservação e Biologia Evolutiva ([GCBEV](http://gcbev.inpa.gov.br/))
@@ -19,7 +19,7 @@
 ### Collaborator Roles 
 ---
 
-*	The Project was conceived and designed by [Romina Batista](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4232850J7), [Alexandre Antonelli](http://www.antonelli-lab.net/) and [Urban Olsson](http://bioenv.gu.se/personal/Olsson_Urban) 
+*	The Project was conceived and designed by [Urban Olsson](http://bioenv.gu.se/personal/Olsson_Urban) 
 
 
 *	Romina Batista and Urban Olsson extracted DNA on the [Bioinformatics and Genetics Departament](http://www.nrm.se/english/researchandcollections/bioinformaticsandgenetics.9000580_en.html) at [Museum of Natural History - NRM](http://www.nrm.se/), Stockholm, Sweden.
@@ -31,8 +31,6 @@
 
 ### Acknowledgements
 --- 
-
-* We would like to thank Louisiana State University Museum of Natural Science, Louisiana State, USA ([LSU](http://www.museum.lsu.edu/MNS/birdcoll.html)) for provide tissue for this research. 
 
 *	We thank [Martin Irestedt](http://www.nrm.se/english/researchandcollections/bioinformaticsandgenetics/staffandcontact/martinirestedt.9003467.html) for his support at the [DNA Laboratory at NRM](https://sites.google.com/site/mslnrm/).
 
