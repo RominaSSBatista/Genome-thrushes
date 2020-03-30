@@ -1,7 +1,7 @@
 ## 21.fev.2020 (by Romina Batista)
 _________
 
-:cloud: data stored at [Hebbe](https://www.c3se.chalmers.se/about/Hebbe/) 
+:cloud: data stored at [Hebbe2](https://www.c3se.chalmers.se/about/Hebbe/) 
 
 PATH: ```/cephyr/NOBACKUP/groups/snic2019-33-17/Romina/Tmerula_PacBio ```
 
